@@ -1,5 +1,4 @@
 <div align="center">
-
 <p>
   <a href="https://www.speechmatics.com/about-us/company">About Us</a>
   <b> | </b><a href="https://www.speechmatics.com/about-us/careers">Careers</a>
