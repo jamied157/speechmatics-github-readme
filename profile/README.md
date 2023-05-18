@@ -2,7 +2,6 @@
 <p>
   <a href="https://www.speechmatics.com/about-us/company">About Us</a>
   <b> | </b><a href="https://www.speechmatics.com/about-us/careers">Careers</a>
-  <b> | </b><a href="https://page.speechmatics.com/free-trial.html">Free Trial</a>
   <b> | </b><a href="https://docs.speechmatics.com">Developer Docs</a>
 </p>
 
